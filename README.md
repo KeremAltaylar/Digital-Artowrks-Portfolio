@@ -1,4 +1,4 @@
-Click blue names to proceed to the works!
+Click to blue names to proceed to the works!
 
  # [Entanglements.00](https://keremaltaylar.github.io/Entanglements.00/) 
   
