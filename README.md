@@ -2,11 +2,15 @@ Click blue names to proceed to the works!
 
  # [Entanglements.00](https://keremaltaylar.github.io/Entanglements.00/) 
   
-  Entanglements.00 is an interactive kinetic painting with hand control via your camera (Dont forget to allow your camera on your browser!). A machine learning model from mediapipe libraries is used for hand landmark detection. P5 Library is used for the flowfield technique which creates the smooth vectoral movements of tentacles. Aesthetically it aims to tribute to the machine revolution in the Matrix Iconography.
+  ALLOW YOUR BROWSER FOR CAMERA ACCESS AND WAİT FOR 4-5 SECONDS SHOWİNG YOUR HAND TO THE CAMERA. THE MODEL WİLL DETECT YOUR HAND!
+  
+  Entanglements.00 is an interactive kinetic painting with hand control via your camera. A machine learning model from mediapipe libraries is used for hand landmark detection. P5 Library is used for the flowfield technique which creates the smooth vectoral movements of tentacles. Aesthetically it aims to tribute to the machine revolution in the Matrix Iconography.
 
  # [Entanglements.01](https://keremaltaylar.github.io/Entanglements.01/) 
 
-Entanglements.01 is an interactive kinetic painting with hand control via your camera (Dont forget to allow your camera on your browser!). A machine learning model from mediapipe libraries is used for hand landmark detection. P5 Library is used for the flowfield technique which creates the smooth vectoral movements of tentacles. Aesthetically it aims to tribute to the machine revolution in the Matrix Iconography.
+  ALLOW YOUR BROWSER FOR CAMERA ACCESS AND WAİT FOR 4-5 SECONDS SHOWİNG YOUR HAND TO THE CAMERA. THE MODEL WİLL DETECT YOUR HAND!
+
+Entanglements.01 is an interactive kinetic painting with hand control via your camera. A machine learning model from mediapipe libraries is used for hand landmark detection. P5 Library is used for the flowfield technique which creates the smooth vectoral movements of tentacles. Aesthetically it aims to tribute to the machine revolution in the Matrix Iconography.
 
  # [Stringillum](https://keremaltaylar.github.io/Stringillum/) 
   
